@@ -18,3 +18,5 @@ print('selesai')
 - [x] jika selesai RUN/jalankan programnya.
 
 ![latihan1](https://user-images.githubusercontent.com/46735379/53026589-0ccafd80-3418-11e9-8f6c-7d2e72f69b05.jpg)
+
+![latihan2](https://user-images.githubusercontent.com/46735379/53026689-3b48d880-3418-11e9-8d90-6c3cf7e00ad2.jpg)
