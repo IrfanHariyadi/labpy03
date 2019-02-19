@@ -16,3 +16,5 @@ print('selesai')
 - [x] cetak data dan memasukan (random.uniform kurang dari 0.5) mengacak nilai kurang dari data yang ditentukan
 
 - [x] jika selesai RUN/jalankan programnya.
+
+![latihan1](https://user-images.githubusercontent.com/46735379/53026589-0ccafd80-3418-11e9-8f6c-7d2e72f69b05.jpg)
