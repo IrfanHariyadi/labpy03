@@ -17,7 +17,7 @@ print('selesai')
 
 - [x] jika selesai RUN/jalankan programnya.
 
-#**Output**
+# **Output**
 ![latihan1](https://user-images.githubusercontent.com/46735379/53026589-0ccafd80-3418-11e9-8f6c-7d2e72f69b05.jpg)
 
 # **latihan2.py**
@@ -84,4 +84,5 @@ cetak (x) dan (e)
 
 - [x] cetak total
 
+# **Output**
 ![program1](https://user-images.githubusercontent.com/46735379/53026715-4b60b800-3418-11e9-8aa8-66df7a4d409d.jpg)
